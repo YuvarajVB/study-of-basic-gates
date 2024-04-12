@@ -89,6 +89,8 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 
 **Result:**
+
+
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
 
